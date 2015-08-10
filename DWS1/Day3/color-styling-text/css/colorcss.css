@@ -1,0 +1,32 @@
+h1 {
+font-family: 'Quicksand', sans-serif;
+}
+
+p {
+	border: 1px solid black;
+}
+
+#four {
+	color: #009473;
+	background-color: #F7C984;
+}
+
+#three {
+	color: #009473;
+	background-color: #F7C984;
+}
+
+#two {
+	color: #E03A00;
+	background-color: #F7C984;
+}
+
+#one {
+	color: #FF5419;
+	background-color: #F7C984;
+}
+
+#zero {
+	color: #942600;
+	background-color: #F7C984;
+}
